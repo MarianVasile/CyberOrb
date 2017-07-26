@@ -25,12 +25,20 @@ DPad for mobile?
 
 https://github.com/austinhallock/html5-virtual-game-controller
 
-*Tip: Google everything.*
+*Tip: There's more. Google everything.*
 
 Much simpler playground for younger children: https://studio.code.org/c/408619671/edit
 
 Drawing on the screen with functional programming: https://code.world/#P0acu4jOFm8rKBDpI9HFyxA
 
+## Online resources for learning Javascript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript (English)
+https://developer.mozilla.org/ja/docs/Web/JavaScript (Japanese)
+
+## Tools
+
+Code editor: https://atom.io
 
 ## Licensing
 
