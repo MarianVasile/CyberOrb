@@ -12,8 +12,8 @@ Now the kind of programming I'm going to present you is rather new, so that by t
 
 #### Online resources for learning Javascript
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript (English)
-https://developer.mozilla.org/ja/docs/Web/JavaScript (Japanese)
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript (English)
+    https://developer.mozilla.org/ja/docs/Web/JavaScript (Japanese)
 
 #### How to get graphics?
 
