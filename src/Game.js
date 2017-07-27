@@ -62,7 +62,7 @@ Ball.Game.prototype = {
 		this.levels = [];
 		this.levelData = [
 			[
-				{ x: 96, y: 224, t: 'w' }
+				{ x: 96, y: 224, t: 'w', g: 05 }
 			],
 			[
 				{ x: 72, y: 320, t: 'w' },

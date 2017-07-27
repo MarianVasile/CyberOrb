@@ -10,35 +10,35 @@ Today we're going to go over a few simple examples of what you can achieve with 
 
 Now the kind of programming I'm going to present you is rather new, so that by the time you get a job, or maybe just do something for a hobby, your knowledge is not already obsolete.
 
-First let's see that game I was telling you about.
-
- How to get graphics?
-
-https://opengameart.org
-http://hasgraphics.com
-
-How to get sounds?
-
-http://soundbible.com
-
-DPad for mobile?
-
-https://github.com/austinhallock/html5-virtual-game-controller
-
-*Tip: There's more. Google everything.*
-
-Much simpler playground for younger children: https://studio.code.org/c/408619671/edit
-
-Drawing on the screen with functional programming: https://code.world/#P0acu4jOFm8rKBDpI9HFyxA
-
-## Online resources for learning Javascript
+#### Online resources for learning Javascript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript (English)
 https://developer.mozilla.org/ja/docs/Web/JavaScript (Japanese)
 
-## Tools
+#### How to get graphics?
+
+    https://opengameart.org
+    http://hasgraphics.com
+
+#### How to get sounds?
+
+    http://soundbible.com
+
+#### DPad for mobile?
+
+    https://github.com/austinhallock/html5-virtual-game-controller 
+
+#### Other languages
+
+For younger children: https://studio.code.org/c/408619671/edit 
+
+Drawing with Functional programming: https://code.world/#P0acu4jOFm8rKBDpI9HFyxA k
+
+#### Tools and Editors
 
 Code editor: https://atom.io
+
+Tiled level editor: http://www.mapeditor.org
 
 ## Licensing
 
